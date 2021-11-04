@@ -4,6 +4,5 @@ title: "Home"
 
 # salut bande de tarbas !
 
-Welcome to your new Hugo site.
-
-Now go build something great.
+Ceci est le contenu de la page d'acceuil !
+Ne marchez pas sur des oppossums !

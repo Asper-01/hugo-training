@@ -1,5 +1,6 @@
 ---
-title: "Articles"
+title: "Posts"
 ---
-Tous les artciles du site !
+
+Contenu de la page "Posts" suivi de la liste des Posts. (Logique non ?)
 
