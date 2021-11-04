@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-# Hi there
+# salut bande de tarbas !
 
 Welcome to your new Hugo site.
 

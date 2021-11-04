@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
-<h1>{{ .Title }}</h1>
-
-{{ .Content }}
+{{ block "main" . }} 
+<p>Test du block main</p>
+{{ end }}
 
 {{ partial "footer.html" . }}
